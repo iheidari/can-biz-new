@@ -1,7 +1,7 @@
 import React from "react";
-import Nav from "./Nav";
 import Link from "next/link";
-import MobileMenu from "./MobileMenu";
+// import Nav from "./Nav";
+// import MobileMenu from "./MobileMenu";
 
 const Header = () => {
   return (
@@ -12,9 +12,8 @@ const Header = () => {
             <span className="text-2xl">Biz Directory</span>
           </Link>
         </div>
-
-        <Nav />
-        <MobileMenu />
+        {/* <Nav />
+        <MobileMenu /> */}
       </div>
     </header>
   );

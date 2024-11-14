@@ -19,14 +19,23 @@ const MobileMenu = () => {
       {menuOpen && (
         <nav className="absolute top-16 left-0 w-full bg-white dark:bg-gray-900 md:hidden">
           <div className="flex flex-col items-center space-y-4 p-4">
-            <Link href="/">
-              <span className="text-gray-800 dark:text-gray-200">Home</span>
+            <Link
+              href="/"
+              className="text-gray-800 dark:text-gray-200 hover:underline w-full text-center"
+            >
+              Home
             </Link>
-            <Link href="/docs">
-              <span className="text-gray-800 dark:text-gray-200">Docs</span>
+            <Link
+              href="/docs"
+              className="text-gray-800 dark:text-gray-200 hover:underline w-full text-center"
+            >
+              Docs
             </Link>
-            <Link href="/about">
-              <span className="text-gray-800 dark:text-gray-200">About</span>
+            <Link
+              href="/about"
+              className="text-gray-800 dark:text-gray-200 hover:underline w-full text-center"
+            >
+              About
             </Link>
           </div>
         </nav>

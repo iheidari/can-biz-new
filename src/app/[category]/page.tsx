@@ -1,4 +1,6 @@
 import React from "react";
+import Breadcrumb from "../ui/Breadcrumb";
+import List from "../ui/List";
 
 interface IProps {
   params: { category: string };
@@ -6,8 +8,18 @@ interface IProps {
 
 const page = async ({ params }: IProps) => {
   const { category } = await params;
-  console.log("🚀 ~ page ~ params.category:", category);
-  return <div>{category}</div>;
+
+  const breadcrumbs = [
+    { title: "Home", url: "/" },
+    { title: category, url: `/${category}` },
+  ];
+
+  return (
+    <div>
+      <Breadcrumb data={breadcrumbs} />
+      <List category={category} />
+    </div>
+  );
 };
 
 export default page;
