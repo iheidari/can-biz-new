@@ -3,7 +3,9 @@ export interface Business {
   name: string;
   description?: string;
   media?: { images: Image[] };
-  instagram: Instagram;
+  socialMedia: {
+    instagram: Instagram;
+  };
   category: Category;
   serviceLocations: Location[];
   tags: Tag[];
