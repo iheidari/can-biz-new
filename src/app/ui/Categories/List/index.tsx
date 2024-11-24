@@ -13,8 +13,9 @@ const renderBusinesses = (businesses: Business[]) => {
       key={business.id}
       link={`/business/${business.id}`}
       title={business.name}
-      imageSrc=""
+      imageSrc={business.media?.images?.[0]?.thumbnailUrl}
       leftValue={`followers: ${business.socialMedia.instagram.followers.toString()}`}
+      rightValue={business.category.name}
     />
   ));
 };
@@ -22,9 +23,7 @@ const renderBusinesses = (businesses: Business[]) => {
 const List = async (props: Props) => {
   const businesses = await getBusinessesByCategoryId(props.category.id);
   return (
-    <div className="p-8 flex justify-center">
-      {renderBusinesses(businesses)}
-    </div>
+    <div className="flex gap-3 flex-wrap">{renderBusinesses(businesses)}</div>
   );
 };
 

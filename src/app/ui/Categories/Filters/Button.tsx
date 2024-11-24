@@ -13,7 +13,7 @@ const Button = (props: Props) => {
   return (
     <Link
       href={props.url}
-      className={`px-4 py-2 flex rounded-full border-2 text-center ${
+      className={`px-4 py-2 flex gap-1 rounded-full border-2 text-center ${
         props.isActive
           ? "bg-white text-black border-white"
           : "bg-transparent text-white border-white"

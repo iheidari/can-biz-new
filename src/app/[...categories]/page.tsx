@@ -40,9 +40,9 @@ const page = async ({ params }: IProps) => {
   }
 
   return (
-    <div>
+    <div className="flex flex-col gap-4">
       <Breadcrumb data={breadcrumbs} />
-      <h1>{categories[categories.length - 1].name}</h1>
+      {/* <h1>{categories[categories.length - 1].name}</h1> */}
       <Filters category={categories[categories.length - 1]} />
       <List category={categories[categories.length - 1]} />
     </div>
