@@ -22,6 +22,7 @@ const Filters = async (props: Props) => {
       url={`/${rootCategoryId}/${item.id}`}
       title={item.name}
       isActive={item.id === props.category.id}
+      imageUrl="/icons/florist.png"
     />
   ));
 

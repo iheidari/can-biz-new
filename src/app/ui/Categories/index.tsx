@@ -1,12 +1,20 @@
 import React from "react";
 import Thumb from "./Thumb";
+import { getRootCategories } from "@/services/category";
 
-const Categories = () => {
+const Categories = async () => {
+  const rootCategories = await getRootCategories();
   return (
     <div className="flex flex-row flex-wrap gap-4 content-center pt-8">
-      <Thumb title="Art" slug="/art" />
-      <Thumb title="Health Care" slug="/health-care" small />
-      <Thumb title="Lawyer" slug="/lawyer" />
+      {rootCategories.map((category) => (
+        <Thumb
+          key={category.id}
+          id={category.id}
+          title={category.name}
+          slug={`/${category.id}`}
+          small={category.name.length > 10}
+        />
+      ))}
     </div>
   );
 };
