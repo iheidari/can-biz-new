@@ -8,7 +8,7 @@ interface Props {
 
 const Filters = async (props: Props) => {
   const subCategories = await getSubCategories(props.categoryId);
-  if (!subCategories) {
+  if (subCategories.length === 0) {
     return null;
   }
 

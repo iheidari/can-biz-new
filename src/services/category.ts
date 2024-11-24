@@ -1,9 +1,7 @@
-import categories from "./categories.json";
+import { categories } from "./categories-data";
 import { Category } from "./types";
 
-export const getCategoryById = async (
-  categoryId: string
-): Promise<Category> => {
+export const getCategoryById = (categoryId: string): Category | undefined => {
   return categories.find((category) => category.id === categoryId);
 };
 
