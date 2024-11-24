@@ -43,7 +43,7 @@ const page = async ({ params }: IProps) => {
     <div>
       <Breadcrumb data={breadcrumbs} />
       <h1>{categories[categories.length - 1].name}</h1>
-      <Filters categoryId={categories[categories.length - 1].id} />
+      <Filters category={categories[categories.length - 1]} />
       <List category={categories[categories.length - 1]} />
     </div>
   );

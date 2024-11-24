@@ -28,14 +28,4 @@ export const categories: Category[] = [
     name: "Florist",
     parentId: "decoration-eventplanner",
   },
-  {
-    id: "florist-very-good",
-    name: "Florist very good",
-    parentId: "florist",
-  },
-  {
-    id: "florist-good",
-    name: "Florist good",
-    parentId: "florist",
-  },
 ];
