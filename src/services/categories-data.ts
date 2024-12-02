@@ -104,17 +104,22 @@ export const categories: Category[] = [
   },
   {
     id: "group-hike",
-    name: "Group Hike",
+    name: "Group & Hike",
     parentId: "blogger-entertainment",
   },
   {
-    id: "immigration",
-    name: "Immigration",
+    id: "immigration-life",
+    name: "Immigration Life",
     parentId: "blogger-entertainment",
   },
   {
     id: "lifestyle",
     name: "Lifestyle",
+    parentId: "blogger-entertainment",
+  },
+  {
+    id: "politic",
+    name: "Politic",
     parentId: "blogger-entertainment",
   },
   {
@@ -126,12 +131,10 @@ export const categories: Category[] = [
     id: "café",
     name: "Café",
   },
-
   {
     id: "channel-magazine",
     name: "Channel & Magazine",
   },
-
   {
     id: "association",
     name: "Association",
@@ -172,12 +175,15 @@ export const categories: Category[] = [
     name: "Theatre",
     parentId: "Channel & Magazine",
   },
-
+  {
+    id: "tv",
+    name: "TV",
+    parentId: "Channel & Magazine",
+  },
   {
     id: "daycare-education",
     name: "Daycare & Education",
   },
-
   {
     id: "decoration-event-planner",
     name: "Decoration & Event planner",
@@ -203,11 +209,6 @@ export const categories: Category[] = [
     parentId: "decoration-event-planner",
   },
   {
-    id: "light-programmer",
-    name: "Light Programmer",
-    parentId: "decoration-event-planner",
-  },
-  {
     id: "dentist",
     name: "Dentist",
   },
@@ -229,7 +230,7 @@ export const categories: Category[] = [
   },
   {
     id: "health-beauty",
-    name: "Health Beauty",
+    name: "Health & Beauty",
   },
   {
     id: "homemade-food",
@@ -246,6 +247,11 @@ export const categories: Category[] = [
     parentId: "homemade-food",
   },
   {
+    id: "pickles-sour",
+    name: "Pickles & Sour",
+    parentId: "homemade-food",
+  },
+  {
     id: "hookah-lounge",
     name: "Hookah lounge",
   },
@@ -253,7 +259,6 @@ export const categories: Category[] = [
     id: "immigration-lawyer",
     name: "Immigration & Lawyer",
   },
-
   {
     id: "immigration",
     name: "Immigration",
@@ -269,12 +274,10 @@ export const categories: Category[] = [
     name: "Notary Public",
     parentId: "immigration-lawyer",
   },
-
   {
     id: "job-business",
     name: "Job & Business",
   },
-
   {
     id: "job",
     name: "Job",
@@ -294,12 +297,10 @@ export const categories: Category[] = [
     id: "market-bakery",
     name: "Market & Bakery",
   },
-
   {
     id: "medical-health",
     name: "Medical & Health",
   },
-
   {
     id: "acupuncturist",
     name: "Acupuncturist",
@@ -353,12 +354,10 @@ export const categories: Category[] = [
     id: "pharmacy",
     name: "Pharmacy",
   },
-
   {
     id: "real-estate",
     name: "Real & Estate",
   },
-
   {
     id: "mortgage-broker",
     name: "Mortgage Broker",
@@ -374,12 +373,10 @@ export const categories: Category[] = [
     name: "Rental",
     parentId: "real-estate",
   },
-
   {
     id: "renovation-construction",
     name: "Renovation & Construction",
   },
-
   {
     id: "electrician-lighting",
     name: "Electrician & Lighting",
@@ -435,17 +432,24 @@ export const categories: Category[] = [
     name: "Renovation & Builder",
     parentId: "renovation-construction",
   },
-
+  {
+    id: "home-Inspector",
+    name: "Home Inspector",
+    parentId: "renovation-construction",
+  },
   {
     id: "restaurant",
     name: "Restaurant",
   },
-
   {
     id: "service-job",
     name: "Service Job",
   },
-
+  {
+    id: "automotive-service",
+    name: "Automotive Service",
+    parentId: "service-job",
+  },
   {
     id: "cargo-freight",
     name: "Cargo & Freight",
@@ -469,14 +473,12 @@ export const categories: Category[] = [
   {
     id: "travel-ticket",
     name: "Travel & Ticket",
-    parentId: "renovation-construction",
+    parentId: "service-job",
   },
-
   {
     id: "shopping",
     name: "Shopping",
   },
-
   {
     id: "art",
     name: "Art",
@@ -488,8 +490,8 @@ export const categories: Category[] = [
     parentId: "shopping",
   },
   {
-    id: "carpet",
-    name: "Carpet",
+    id: "carpet-furniture",
+    name: "Carpet & Furniture",
     parentId: "shopping",
   },
   {
@@ -517,12 +519,15 @@ export const categories: Category[] = [
     name: "Jewelry",
     parentId: "shopping",
   },
-
+  {
+    id: "building-material",
+    name: "Building Material",
+    parentId: "shopping",
+  },
   {
     id: "teacher-trainer",
     name: "Teacher & Trainer",
   },
-
   {
     id: "art",
     name: "Art",
@@ -556,6 +561,11 @@ export const categories: Category[] = [
   {
     id: "sport-trainer",
     name: "Sport Trainer",
+    parentId: "teacher-trainer",
+  },
+  {
+    id: "food",
+    name: "Food",
     parentId: "teacher-trainer",
   },
 ];
