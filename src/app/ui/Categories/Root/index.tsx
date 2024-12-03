@@ -12,7 +12,7 @@ const Categories = async () => {
           id={category.id}
           title={category.name}
           slug={`/${category.id}`}
-          small={category.name.length > 10}
+          small={category.name.length > 9}
         />
       ))}
     </div>
