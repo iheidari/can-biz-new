@@ -9,8 +9,11 @@ import {
 import Filters from "../ui/Categories/Filters";
 import { notFound } from "next/navigation";
 
+// fro  nextjs 15, params will pass as a promise
+type Params = Promise<{ categories: string[] }>;
+
 interface IProps {
-  params: { categories: string[] };
+  params: Params;
 }
 
 const page = async ({ params }: IProps) => {
