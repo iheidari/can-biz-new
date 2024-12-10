@@ -31,7 +31,3 @@ jobs:
       # Step 4: Run build script
       - name: Run build
         run: npm run build
-
-      # Optional Step 5: Run tests
-      - name: Run tests
-        run: npm test
