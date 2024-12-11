@@ -128,7 +128,7 @@ export const categories: Category[] = [
     parentId: "blogger-entertainment",
   },
   {
-    id: "café",
+    id: "cafe",
     name: "Café",
   },
   {
@@ -138,47 +138,47 @@ export const categories: Category[] = [
   {
     id: "association",
     name: "Association",
-    parentId: "Channel & Magazine",
+    parentId: "channel-magazine",
   },
   {
     id: "book",
     name: "Book",
-    parentId: "Channel & Magazine",
+    parentId: "channel-magazine",
   },
   {
     id: "channel",
     name: "Channel",
-    parentId: "Channel & Magazine",
+    parentId: "channel-magazine",
   },
   {
     id: "event-channel",
     name: "Event Channel",
-    parentId: "Channel & Magazine",
+    parentId: "channel-magazine",
   },
   {
     id: "magazine",
     name: "Magazine",
-    parentId: "Channel & Magazine",
+    parentId: "channel-magazine",
   },
   {
     id: "podcast",
     name: "Podcast",
-    parentId: "Channel & Magazine",
+    parentId: "channel-magazine",
   },
   {
     id: "radio",
     name: "Radio",
-    parentId: "Channel & Magazine",
+    parentId: "channel-magazine",
   },
   {
     id: "theatre",
     name: "Theatre",
-    parentId: "Channel & Magazine",
+    parentId: "channel-magazine",
   },
   {
     id: "tv",
     name: "TV",
-    parentId: "Channel & Magazine",
+    parentId: "channel-magazine",
   },
   {
     id: "daycare-education",
