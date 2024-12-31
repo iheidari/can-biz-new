@@ -25,7 +25,8 @@ interface Instagram {
   followers: number;
   description?: string;
   posts?: number;
-  businessFollowers?: number;
+  businessFollowersId: string[];
+  isVerified: boolean;
 }
 
 export interface Category {

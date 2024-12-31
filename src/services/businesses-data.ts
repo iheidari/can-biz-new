@@ -10,7 +10,8 @@ export const businesses: Business[] = [
         name: "",
         followers: 0,
         posts: 0,
-        businessFollowers: 0,
+        businessFollowersId: [],
+        isVerified: false,
       },
     },
     category: {
@@ -31,7 +32,8 @@ export const businesses: Business[] = [
         name: "",
         followers: 0,
         posts: 0,
-        businessFollowers: 0,
+        businessFollowersId: [],
+        isVerified: false,
       },
     },
     category: {
@@ -52,7 +54,8 @@ export const businesses: Business[] = [
         name: "",
         followers: 0,
         posts: 0,
-        businessFollowers: 0,
+        businessFollowersId: [],
+        isVerified: false,
       },
     },
     category: {
