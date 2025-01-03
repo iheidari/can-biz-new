@@ -7,16 +7,16 @@
         "id": "lonsdale.accounting",
         "name": "Accounting & Tax Services",
         "followers": "576",
-        "posts": 37,
-        "businessFollowers": 0
+        "businessFollowersId": [],
+        "isVerified": false
       }
     },
     "category": {
       "id": "accountant",
       "name": "Accountant"
     },
-    "createdAt": "2024-12-31T05:53:06.304Z",
-    "updatedAt": "2024-12-31T05:53:06.304Z",
+    "createdAt": "2025-01-03T06:37:51.815Z",
+    "updatedAt": "2025-01-03T06:37:51.815Z",
     "serviceLocations": [],
     "tags": []
   },
@@ -28,16 +28,16 @@
         "id": "parichehr.royal.accountants",
         "name": "Parichehr",
         "followers": "635",
-        "posts": 230,
-        "businessFollowers": 0
+        "businessFollowersId": [],
+        "isVerified": false
       }
     },
     "category": {
       "id": "accountant",
       "name": "Accountant"
     },
-    "createdAt": "2024-12-31T05:53:06.304Z",
-    "updatedAt": "2024-12-31T05:53:06.304Z",
+    "createdAt": "2025-01-03T06:37:51.815Z",
+    "updatedAt": "2025-01-03T06:37:51.815Z",
     "serviceLocations": [],
     "tags": []
   },
@@ -49,16 +49,16 @@
         "id": "smart.acc.bc",
         "name": "BC Smart Account Group",
         "followers": "6,119",
-        "posts": null,
-        "businessFollowers": 0
+        "businessFollowersId": [],
+        "isVerified": false
       }
     },
     "category": {
       "id": "accountant",
       "name": "Accountant"
     },
-    "createdAt": "2024-12-31T05:53:06.304Z",
-    "updatedAt": "2024-12-31T05:53:06.304Z",
+    "createdAt": "2025-01-03T06:37:51.815Z",
+    "updatedAt": "2025-01-03T06:37:51.815Z",
     "serviceLocations": [],
     "tags": []
   },
@@ -70,16 +70,16 @@
         "id": "zara.royalaccounting",
         "name": "Zara Royal Accounting",
         "followers": "5,279",
-        "posts": null,
-        "businessFollowers": 0
+        "businessFollowersId": [],
+        "isVerified": false
       }
     },
     "category": {
       "id": "accountant",
       "name": "Accountant"
     },
-    "createdAt": "2024-12-31T05:53:06.304Z",
-    "updatedAt": "2024-12-31T05:53:06.304Z",
+    "createdAt": "2025-01-03T06:37:51.815Z",
+    "updatedAt": "2025-01-03T06:37:51.815Z",
     "serviceLocations": [],
     "tags": []
   },
@@ -91,16 +91,16 @@
         "id": "phoenixcanada",
         "name": "Phoenix Accounting",
         "followers": "1,781",
-        "posts": null,
-        "businessFollowers": 0
+        "businessFollowersId": [],
+        "isVerified": false
       }
     },
     "category": {
       "id": "accountant",
       "name": "Accountant"
     },
-    "createdAt": "2024-12-31T05:53:06.304Z",
-    "updatedAt": "2024-12-31T05:53:06.304Z",
+    "createdAt": "2025-01-03T06:37:51.815Z",
+    "updatedAt": "2025-01-03T06:37:51.815Z",
     "serviceLocations": [],
     "tags": []
   },
@@ -112,16 +112,16 @@
         "id": "shakiba_amirmo",
         "name": "Shakiba Mohammadi",
         "followers": "1,901",
-        "posts": 103,
-        "businessFollowers": 0
+        "businessFollowersId": [],
+        "isVerified": false
       }
     },
     "category": {
       "id": "financial",
       "name": "Financial"
     },
-    "createdAt": "2024-12-31T05:53:06.304Z",
-    "updatedAt": "2024-12-31T05:53:06.304Z",
+    "createdAt": "2025-01-03T06:37:51.816Z",
+    "updatedAt": "2025-01-03T06:37:51.816Z",
     "serviceLocations": [],
     "tags": []
   },
@@ -133,16 +133,16 @@
         "id": "mohsen_davan",
         "name": "Mohsen Mehri Davan",
         "followers": "1,870",
-        "posts": null,
-        "businessFollowers": 0
+        "businessFollowersId": [],
+        "isVerified": false
       }
     },
     "category": {
       "id": "financial",
       "name": "Financial"
     },
-    "createdAt": "2024-12-31T05:53:06.304Z",
-    "updatedAt": "2024-12-31T05:53:06.304Z",
+    "createdAt": "2025-01-03T06:37:51.816Z",
+    "updatedAt": "2025-01-03T06:37:51.816Z",
     "serviceLocations": [],
     "tags": []
   },
@@ -154,16 +154,16 @@
         "id": "__.azzalea.__",
         "name": "Azza",
         "followers": "4,771",
-        "posts": null,
-        "businessFollowers": 0
+        "businessFollowersId": [],
+        "isVerified": false
       }
     },
     "category": {
       "id": "financial",
       "name": "Financial"
     },
-    "createdAt": "2024-12-31T05:53:06.304Z",
-    "updatedAt": "2024-12-31T05:53:06.304Z",
+    "createdAt": "2025-01-03T06:37:51.816Z",
+    "updatedAt": "2025-01-03T06:37:51.816Z",
     "serviceLocations": [],
     "tags": []
   },
@@ -175,16 +175,16 @@
         "id": "wiseinvest.ca",
         "name": "WiseInvest",
         "followers": "678",
-        "posts": null,
-        "businessFollowers": 0
+        "businessFollowersId": [],
+        "isVerified": false
       }
     },
     "category": {
       "id": "financial",
       "name": "Financial"
     },
-    "createdAt": "2024-12-31T05:53:06.304Z",
-    "updatedAt": "2024-12-31T05:53:06.304Z",
+    "createdAt": "2025-01-03T06:37:51.816Z",
+    "updatedAt": "2025-01-03T06:37:51.816Z",
     "serviceLocations": [],
     "tags": []
   },
@@ -196,16 +196,16 @@
         "id": "peymann.salari",
         "name": "Peyman Salari",
         "followers": "318",
-        "posts": null,
-        "businessFollowers": 0
+        "businessFollowersId": [],
+        "isVerified": false
       }
     },
     "category": {
       "id": "financial",
       "name": "Financial"
     },
-    "createdAt": "2024-12-31T05:53:06.304Z",
-    "updatedAt": "2024-12-31T05:53:06.304Z",
+    "createdAt": "2025-01-03T06:37:51.816Z",
+    "updatedAt": "2025-01-03T06:37:51.816Z",
     "serviceLocations": [],
     "tags": []
   },
@@ -217,16 +217,16 @@
         "id": "mahdi_mohajeran",
         "name": "𝐌𝐀𝐇𝐃𝐈 𝐌𝐎𝐇𝐀𝐉𝐄𝐑𝐀𝐍",
         "followers": "275K",
-        "posts": null,
-        "businessFollowers": 0
+        "businessFollowersId": [],
+        "isVerified": false
       }
     },
     "category": {
       "id": "financial",
       "name": "Financial"
     },
-    "createdAt": "2024-12-31T05:53:06.304Z",
-    "updatedAt": "2024-12-31T05:53:06.304Z",
+    "createdAt": "2025-01-03T06:37:51.816Z",
+    "updatedAt": "2025-01-03T06:37:51.816Z",
     "serviceLocations": [],
     "tags": []
   },
@@ -238,16 +238,16 @@
         "id": "Shabnam.dalirifar",
         "name": "Shabnam Dalirifar",
         "followers": "539",
-        "posts": null,
-        "businessFollowers": 0
+        "businessFollowersId": [],
+        "isVerified": false
       }
     },
     "category": {
       "id": "financial",
       "name": "Financial"
     },
-    "createdAt": "2024-12-31T05:53:06.304Z",
-    "updatedAt": "2024-12-31T05:53:06.304Z",
+    "createdAt": "2025-01-03T06:37:51.816Z",
+    "updatedAt": "2025-01-03T06:37:51.816Z",
     "serviceLocations": [],
     "tags": []
   },
@@ -259,16 +259,16 @@
         "id": "chenoor_shajiei",
         "name": "Chenoor Shajiei",
         "followers": "5,306",
-        "posts": null,
-        "businessFollowers": 0
+        "businessFollowersId": [],
+        "isVerified": false
       }
     },
     "category": {
       "id": "financial",
       "name": "Financial"
     },
-    "createdAt": "2024-12-31T05:53:06.304Z",
-    "updatedAt": "2024-12-31T05:53:06.304Z",
+    "createdAt": "2025-01-03T06:37:51.816Z",
+    "updatedAt": "2025-01-03T06:37:51.816Z",
     "serviceLocations": [],
     "tags": []
   },
@@ -280,16 +280,16 @@
         "id": "keivannasirnia",
         "name": "Keivan Nasirnia",
         "followers": "465",
-        "posts": null,
-        "businessFollowers": 0
+        "businessFollowersId": [],
+        "isVerified": false
       }
     },
     "category": {
       "id": "financial",
       "name": "Financial"
     },
-    "createdAt": "2024-12-31T05:53:06.304Z",
-    "updatedAt": "2024-12-31T05:53:06.304Z",
+    "createdAt": "2025-01-03T06:37:51.816Z",
+    "updatedAt": "2025-01-03T06:37:51.816Z",
     "serviceLocations": [],
     "tags": []
   },
@@ -301,16 +301,16 @@
         "id": "parhamhashemzadeh.ca",
         "name": "Parham Hashemzadeh",
         "followers": "1,128",
-        "posts": null,
-        "businessFollowers": 0
+        "businessFollowersId": [],
+        "isVerified": false
       }
     },
     "category": {
       "id": "financial",
       "name": "Financial"
     },
-    "createdAt": "2024-12-31T05:53:06.304Z",
-    "updatedAt": "2024-12-31T05:53:06.304Z",
+    "createdAt": "2025-01-03T06:37:51.816Z",
+    "updatedAt": "2025-01-03T06:37:51.816Z",
     "serviceLocations": [],
     "tags": []
   },
@@ -322,16 +322,16 @@
         "id": "saeedekamone",
         "name": "Saeede Kamone",
         "followers": "1,387",
-        "posts": null,
-        "businessFollowers": 0
+        "businessFollowersId": [],
+        "isVerified": false
       }
     },
     "category": {
       "id": "financial",
       "name": "Financial"
     },
-    "createdAt": "2024-12-31T05:53:06.304Z",
-    "updatedAt": "2024-12-31T05:53:06.304Z",
+    "createdAt": "2025-01-03T06:37:51.816Z",
+    "updatedAt": "2025-01-03T06:37:51.816Z",
     "serviceLocations": [],
     "tags": []
   },
@@ -343,16 +343,16 @@
         "id": "sina_kalantarzadeh",
         "name": "Sina",
         "followers": "1,982",
-        "posts": null,
-        "businessFollowers": 0
+        "businessFollowersId": [],
+        "isVerified": false
       }
     },
     "category": {
       "id": "financial",
       "name": "Financial"
     },
-    "createdAt": "2024-12-31T05:53:06.304Z",
-    "updatedAt": "2024-12-31T05:53:06.304Z",
+    "createdAt": "2025-01-03T06:37:51.816Z",
+    "updatedAt": "2025-01-03T06:37:51.816Z",
     "serviceLocations": [],
     "tags": []
   },
@@ -364,16 +364,16 @@
         "id": "famnassry",
         "name": "Fam Nassry",
         "followers": "656",
-        "posts": null,
-        "businessFollowers": 0
+        "businessFollowersId": [],
+        "isVerified": false
       }
     },
     "category": {
       "id": "financial",
       "name": "Financial"
     },
-    "createdAt": "2024-12-31T05:53:06.304Z",
-    "updatedAt": "2024-12-31T05:53:06.304Z",
+    "createdAt": "2025-01-03T06:37:51.816Z",
+    "updatedAt": "2025-01-03T06:37:51.816Z",
     "serviceLocations": [],
     "tags": []
   },
@@ -385,16 +385,16 @@
         "id": "tefinancial_accounting",
         "name": "TE Financial Group",
         "followers": "492",
-        "posts": null,
-        "businessFollowers": 0
+        "businessFollowersId": [],
+        "isVerified": false
       }
     },
     "category": {
       "id": "financial",
       "name": "Financial"
     },
-    "createdAt": "2024-12-31T05:53:06.304Z",
-    "updatedAt": "2024-12-31T05:53:06.304Z",
+    "createdAt": "2025-01-03T06:37:51.816Z",
+    "updatedAt": "2025-01-03T06:37:51.816Z",
     "serviceLocations": [],
     "tags": []
   },
@@ -406,16 +406,16 @@
         "id": "nima__attar",
         "name": "Nima Attar",
         "followers": "17.8K",
-        "posts": 246,
-        "businessFollowers": 0
+        "businessFollowersId": [],
+        "isVerified": false
       }
     },
     "category": {
       "id": "financial",
       "name": "Financial"
     },
-    "createdAt": "2024-12-31T05:53:06.304Z",
-    "updatedAt": "2024-12-31T05:53:06.304Z",
+    "createdAt": "2025-01-03T06:37:51.816Z",
+    "updatedAt": "2025-01-03T06:37:51.816Z",
     "serviceLocations": [],
     "tags": []
   },
@@ -427,16 +427,16 @@
         "id": "mossi.gharbaghi",
         "name": "Mossi Gh",
         "followers": "1,961",
-        "posts": 53,
-        "businessFollowers": 0
+        "businessFollowersId": [],
+        "isVerified": false
       }
     },
     "category": {
       "id": "financial",
       "name": "Financial"
     },
-    "createdAt": "2024-12-31T05:53:06.304Z",
-    "updatedAt": "2024-12-31T05:53:06.304Z",
+    "createdAt": "2025-01-03T06:37:51.816Z",
+    "updatedAt": "2025-01-03T06:37:51.816Z",
     "serviceLocations": [],
     "tags": []
   },
@@ -448,16 +448,16 @@
         "id": "vancouver_finance",
         "name": "Ehsan Moafi",
         "followers": "1,047",
-        "posts": 40,
-        "businessFollowers": 0
+        "businessFollowersId": [],
+        "isVerified": false
       }
     },
     "category": {
       "id": "financial",
       "name": "Financial"
     },
-    "createdAt": "2024-12-31T05:53:06.304Z",
-    "updatedAt": "2024-12-31T05:53:06.304Z",
+    "createdAt": "2025-01-03T06:37:51.816Z",
+    "updatedAt": "2025-01-03T06:37:51.816Z",
     "serviceLocations": [],
     "tags": []
   },
@@ -469,16 +469,16 @@
         "id": "parisapajooh.finance",
         "name": "Parisa",
         "followers": "2,137",
-        "posts": 57,
-        "businessFollowers": 0
+        "businessFollowersId": [],
+        "isVerified": false
       }
     },
     "category": {
       "id": "financial",
       "name": "Financial"
     },
-    "createdAt": "2024-12-31T05:53:06.304Z",
-    "updatedAt": "2024-12-31T05:53:06.304Z",
+    "createdAt": "2025-01-03T06:37:51.816Z",
+    "updatedAt": "2025-01-03T06:37:51.816Z",
     "serviceLocations": [],
     "tags": []
   },
@@ -490,16 +490,16 @@
         "id": "moji.gharbaghi",
         "name": "Moji Gharbaghi",
         "followers": "2,350",
-        "posts": 38,
-        "businessFollowers": 0
+        "businessFollowersId": [],
+        "isVerified": false
       }
     },
     "category": {
       "id": "financial",
       "name": "Financial"
     },
-    "createdAt": "2024-12-31T05:53:06.304Z",
-    "updatedAt": "2024-12-31T05:53:06.304Z",
+    "createdAt": "2025-01-03T06:37:51.816Z",
+    "updatedAt": "2025-01-03T06:37:51.816Z",
     "serviceLocations": [],
     "tags": []
   },
@@ -511,16 +511,16 @@
         "id": "hamid_payombarnia",
         "name": "Hamid Payomabarnia",
         "followers": "4,168",
-        "posts": null,
-        "businessFollowers": 0
+        "businessFollowersId": [],
+        "isVerified": false
       }
     },
     "category": {
       "id": "financial",
       "name": "Financial"
     },
-    "createdAt": "2024-12-31T05:53:06.304Z",
-    "updatedAt": "2024-12-31T05:53:06.304Z",
+    "createdAt": "2025-01-03T06:37:51.816Z",
+    "updatedAt": "2025-01-03T06:37:51.816Z",
     "serviceLocations": [],
     "tags": []
   },
@@ -532,16 +532,16 @@
         "id": "elham.ghorbaniiiii",
         "name": "Elham Ghorbani",
         "followers": "928",
-        "posts": null,
-        "businessFollowers": 0
+        "businessFollowersId": [],
+        "isVerified": false
       }
     },
     "category": {
       "id": "financial",
       "name": "Financial"
     },
-    "createdAt": "2024-12-31T05:53:06.304Z",
-    "updatedAt": "2024-12-31T05:53:06.304Z",
+    "createdAt": "2025-01-03T06:37:51.816Z",
+    "updatedAt": "2025-01-03T06:37:51.816Z",
     "serviceLocations": [],
     "tags": []
   },
@@ -553,16 +553,16 @@
         "id": "alirezaa",
         "name": "Alireza Soleimani",
         "followers": "1,767",
-        "posts": null,
-        "businessFollowers": 0
+        "businessFollowersId": [],
+        "isVerified": false
       }
     },
     "category": {
       "id": "financial",
       "name": "Financial"
     },
-    "createdAt": "2024-12-31T05:53:06.304Z",
-    "updatedAt": "2024-12-31T05:53:06.304Z",
+    "createdAt": "2025-01-03T06:37:51.816Z",
+    "updatedAt": "2025-01-03T06:37:51.816Z",
     "serviceLocations": [],
     "tags": []
   },
@@ -574,16 +574,16 @@
         "id": "raana.emaad",
         "name": "Raana Emad",
         "followers": "767",
-        "posts": 16,
-        "businessFollowers": 0
+        "businessFollowersId": [],
+        "isVerified": false
       }
     },
     "category": {
       "id": "financial",
       "name": "Financial"
     },
-    "createdAt": "2024-12-31T05:53:06.304Z",
-    "updatedAt": "2024-12-31T05:53:06.304Z",
+    "createdAt": "2025-01-03T06:37:51.816Z",
+    "updatedAt": "2025-01-03T06:37:51.816Z",
     "serviceLocations": [],
     "tags": []
   },
@@ -595,16 +595,16 @@
         "id": "bita_nikfar",
         "name": "Bita Nikfar",
         "followers": "1,115",
-        "posts": null,
-        "businessFollowers": 0
+        "businessFollowersId": [],
+        "isVerified": false
       }
     },
     "category": {
       "id": "financial",
       "name": "Financial"
     },
-    "createdAt": "2024-12-31T05:53:06.304Z",
-    "updatedAt": "2024-12-31T05:53:06.304Z",
+    "createdAt": "2025-01-03T06:37:51.816Z",
+    "updatedAt": "2025-01-03T06:37:51.816Z",
     "serviceLocations": [],
     "tags": []
   },
@@ -616,16 +616,16 @@
         "id": "vahidnik.ca",
         "name": "Vahid Nikkhah",
         "followers": "695",
-        "posts": null,
-        "businessFollowers": 0
+        "businessFollowersId": [],
+        "isVerified": false
       }
     },
     "category": {
       "id": "financial",
       "name": "Financial"
     },
-    "createdAt": "2024-12-31T05:53:06.304Z",
-    "updatedAt": "2024-12-31T05:53:06.304Z",
+    "createdAt": "2025-01-03T06:37:51.816Z",
+    "updatedAt": "2025-01-03T06:37:51.816Z",
     "serviceLocations": [],
     "tags": []
   },
@@ -637,16 +637,16 @@
         "id": "dave_boushehri",
         "name": "Davar Arabiboushehri",
         "followers": "14.6K",
-        "posts": null,
-        "businessFollowers": 0
+        "businessFollowersId": [],
+        "isVerified": false
       }
     },
     "category": {
       "id": "financial",
       "name": "Financial"
     },
-    "createdAt": "2024-12-31T05:53:06.304Z",
-    "updatedAt": "2024-12-31T05:53:06.304Z",
+    "createdAt": "2025-01-03T06:37:51.816Z",
+    "updatedAt": "2025-01-03T06:37:51.816Z",
     "serviceLocations": [],
     "tags": []
   },
@@ -658,16 +658,16 @@
         "id": "payamtavakoli.ca",
         "name": "Payam Tavakoli",
         "followers": "510",
-        "posts": null,
-        "businessFollowers": 0
+        "businessFollowersId": [],
+        "isVerified": false
       }
     },
     "category": {
       "id": "financial",
       "name": "Financial"
     },
-    "createdAt": "2024-12-31T05:53:06.304Z",
-    "updatedAt": "2024-12-31T05:53:06.304Z",
+    "createdAt": "2025-01-03T06:37:51.816Z",
+    "updatedAt": "2025-01-03T06:37:51.816Z",
     "serviceLocations": [],
     "tags": []
   },
@@ -679,16 +679,16 @@
         "id": "apro_financial_advice",
         "name": "Ali Rouhani",
         "followers": "142",
-        "posts": null,
-        "businessFollowers": 0
+        "businessFollowersId": [],
+        "isVerified": false
       }
     },
     "category": {
       "id": "financial",
       "name": "Financial"
     },
-    "createdAt": "2024-12-31T05:53:06.304Z",
-    "updatedAt": "2024-12-31T05:53:06.304Z",
+    "createdAt": "2025-01-03T06:37:51.816Z",
+    "updatedAt": "2025-01-03T06:37:51.816Z",
     "serviceLocations": [],
     "tags": []
   },
@@ -700,16 +700,16 @@
         "id": "ganj_academy",
         "name": "Ganj Academy - آکادمی گنج",
         "followers": "12.5K",
-        "posts": null,
-        "businessFollowers": 0
+        "businessFollowersId": [],
+        "isVerified": false
       }
     },
     "category": {
       "id": "financial",
       "name": "Financial"
     },
-    "createdAt": "2024-12-31T05:53:06.304Z",
-    "updatedAt": "2024-12-31T05:53:06.304Z",
+    "createdAt": "2025-01-03T06:37:51.816Z",
+    "updatedAt": "2025-01-03T06:37:51.816Z",
     "serviceLocations": [],
     "tags": []
   },
@@ -721,16 +721,16 @@
         "id": "apluswealth.fa",
         "name": "AplusWealth Farsi",
         "followers": "6,442",
-        "posts": null,
-        "businessFollowers": 0
+        "businessFollowersId": [],
+        "isVerified": false
       }
     },
     "category": {
       "id": "financial",
       "name": "Financial"
     },
-    "createdAt": "2024-12-31T05:53:06.304Z",
-    "updatedAt": "2024-12-31T05:53:06.304Z",
+    "createdAt": "2025-01-03T06:37:51.816Z",
+    "updatedAt": "2025-01-03T06:37:51.816Z",
     "serviceLocations": [],
     "tags": []
   },
@@ -742,16 +742,16 @@
         "id": "matintirehdast_insurance",
         "name": "Matine Tireh Dast",
         "followers": "3,640",
-        "posts": 90,
-        "businessFollowers": 0
+        "businessFollowersId": [],
+        "isVerified": false
       }
     },
     "category": {
       "id": "insurance",
       "name": "Insurance"
     },
-    "createdAt": "2024-12-31T05:53:06.304Z",
-    "updatedAt": "2024-12-31T05:53:06.304Z",
+    "createdAt": "2025-01-03T06:37:51.816Z",
+    "updatedAt": "2025-01-03T06:37:51.816Z",
     "serviceLocations": [],
     "tags": []
   },
@@ -763,16 +763,16 @@
         "id": "vancouver_insurance_agent",
         "name": "Ahmad Tajdini",
         "followers": "2,591",
-        "posts": 357,
-        "businessFollowers": 0
+        "businessFollowersId": [],
+        "isVerified": false
       }
     },
     "category": {
       "id": "insurance",
       "name": "Insurance"
     },
-    "createdAt": "2024-12-31T05:53:06.304Z",
-    "updatedAt": "2024-12-31T05:53:06.304Z",
+    "createdAt": "2025-01-03T06:37:51.816Z",
+    "updatedAt": "2025-01-03T06:37:51.816Z",
     "serviceLocations": [],
     "tags": []
   },
@@ -784,16 +784,16 @@
         "id": "know.insurance.bc",
         "name": "Mehdi Mehdizadeh",
         "followers": "3,379",
-        "posts": 64,
-        "businessFollowers": 0
+        "businessFollowersId": [],
+        "isVerified": false
       }
     },
     "category": {
       "id": "insurance",
       "name": "Insurance"
     },
-    "createdAt": "2024-12-31T05:53:06.304Z",
-    "updatedAt": "2024-12-31T05:53:06.304Z",
+    "createdAt": "2025-01-03T06:37:51.816Z",
+    "updatedAt": "2025-01-03T06:37:51.816Z",
     "serviceLocations": [],
     "tags": []
   },
@@ -805,16 +805,16 @@
         "id": "barackashtari",
         "name": "BARACK ASHTARI",
         "followers": "4,315",
-        "posts": 240,
-        "businessFollowers": 0
+        "businessFollowersId": [],
+        "isVerified": false
       }
     },
     "category": {
       "id": "insurance",
       "name": "Insurance"
     },
-    "createdAt": "2024-12-31T05:53:06.304Z",
-    "updatedAt": "2024-12-31T05:53:06.304Z",
+    "createdAt": "2025-01-03T06:37:51.816Z",
+    "updatedAt": "2025-01-03T06:37:51.816Z",
     "serviceLocations": [],
     "tags": []
   },
@@ -826,16 +826,16 @@
         "id": "peimanjavdan",
         "name": "Peiman Javdan",
         "followers": "4,502",
-        "posts": 142,
-        "businessFollowers": 0
+        "businessFollowersId": [],
+        "isVerified": false
       }
     },
     "category": {
       "id": "insurance",
       "name": "Insurance"
     },
-    "createdAt": "2024-12-31T05:53:06.304Z",
-    "updatedAt": "2024-12-31T05:53:06.304Z",
+    "createdAt": "2025-01-03T06:37:51.816Z",
+    "updatedAt": "2025-01-03T06:37:51.816Z",
     "serviceLocations": [],
     "tags": []
   },
@@ -847,16 +847,16 @@
         "id": "mona.jahangiri.insurance",
         "name": "Mona Jahangiri",
         "followers": "1,915",
-        "posts": 97,
-        "businessFollowers": 0
+        "businessFollowersId": [],
+        "isVerified": false
       }
     },
     "category": {
       "id": "insurance",
       "name": "Insurance"
     },
-    "createdAt": "2024-12-31T05:53:06.304Z",
-    "updatedAt": "2024-12-31T05:53:06.304Z",
+    "createdAt": "2025-01-03T06:37:51.816Z",
+    "updatedAt": "2025-01-03T06:37:51.816Z",
     "serviceLocations": [],
     "tags": []
   },
@@ -868,16 +868,16 @@
         "id": "insurance.advisor.bc",
         "name": "Ellie",
         "followers": "586",
-        "posts": 38,
-        "businessFollowers": 0
+        "businessFollowersId": [],
+        "isVerified": false
       }
     },
     "category": {
       "id": "insurance",
       "name": "Insurance"
     },
-    "createdAt": "2024-12-31T05:53:06.304Z",
-    "updatedAt": "2024-12-31T05:53:06.304Z",
+    "createdAt": "2025-01-03T06:37:51.816Z",
+    "updatedAt": "2025-01-03T06:37:51.816Z",
     "serviceLocations": [],
     "tags": []
   },
@@ -889,16 +889,16 @@
         "id": "finance_by_me",
         "name": "پروانه مدرس",
         "followers": "2,645",
-        "posts": 115,
-        "businessFollowers": 0
+        "businessFollowersId": [],
+        "isVerified": false
       }
     },
     "category": {
       "id": "insurance",
       "name": "Insurance"
     },
-    "createdAt": "2024-12-31T05:53:06.304Z",
-    "updatedAt": "2024-12-31T05:53:06.304Z",
+    "createdAt": "2025-01-03T06:37:51.816Z",
+    "updatedAt": "2025-01-03T06:37:51.816Z",
     "serviceLocations": [],
     "tags": []
   },
@@ -910,16 +910,16 @@
         "id": "finance_by_me_en",
         "name": "Parvaneh Modarres",
         "followers": "2,743",
-        "posts": 26,
-        "businessFollowers": 0
+        "businessFollowersId": [],
+        "isVerified": false
       }
     },
     "category": {
       "id": "insurance",
       "name": "Insurance"
     },
-    "createdAt": "2024-12-31T05:53:06.304Z",
-    "updatedAt": "2024-12-31T05:53:06.304Z",
+    "createdAt": "2025-01-03T06:37:51.816Z",
+    "updatedAt": "2025-01-03T06:37:51.816Z",
     "serviceLocations": [],
     "tags": []
   },
@@ -931,16 +931,16 @@
         "id": "reza.abedi.advisor",
         "name": "Reza abedi",
         "followers": "315",
-        "posts": 59,
-        "businessFollowers": 0
+        "businessFollowersId": [],
+        "isVerified": false
       }
     },
     "category": {
       "id": "insurance",
       "name": "Insurance"
     },
-    "createdAt": "2024-12-31T05:53:06.304Z",
-    "updatedAt": "2024-12-31T05:53:06.304Z",
+    "createdAt": "2025-01-03T06:37:51.816Z",
+    "updatedAt": "2025-01-03T06:37:51.816Z",
     "serviceLocations": [],
     "tags": []
   },
@@ -952,16 +952,16 @@
         "id": "insurebc_ambleside",
         "name": "InsureBC (Ambleside)",
         "followers": "408",
-        "posts": 55,
-        "businessFollowers": 0
+        "businessFollowersId": [],
+        "isVerified": false
       }
     },
     "category": {
       "id": "insurance",
       "name": "Insurance"
     },
-    "createdAt": "2024-12-31T05:53:06.304Z",
-    "updatedAt": "2024-12-31T05:53:06.304Z",
+    "createdAt": "2025-01-03T06:37:51.816Z",
+    "updatedAt": "2025-01-03T06:37:51.816Z",
     "serviceLocations": [],
     "tags": []
   },
@@ -973,16 +973,16 @@
         "id": "laila.parvizian",
         "name": "Laila Parvizian",
         "followers": "2,241",
-        "posts": 67,
-        "businessFollowers": 0
+        "businessFollowersId": [],
+        "isVerified": false
       }
     },
     "category": {
       "id": "insurance",
       "name": "Insurance"
     },
-    "createdAt": "2024-12-31T05:53:06.304Z",
-    "updatedAt": "2024-12-31T05:53:06.304Z",
+    "createdAt": "2025-01-03T06:37:51.816Z",
+    "updatedAt": "2025-01-03T06:37:51.816Z",
     "serviceLocations": [],
     "tags": []
   },
@@ -994,16 +994,16 @@
         "id": "elham_rezaei.gh",
         "name": "Elham Rezaei",
         "followers": "2,668",
-        "posts": 139,
-        "businessFollowers": 0
+        "businessFollowersId": [],
+        "isVerified": false
       }
     },
     "category": {
       "id": "insurance",
       "name": "Insurance"
     },
-    "createdAt": "2024-12-31T05:53:06.304Z",
-    "updatedAt": "2024-12-31T05:53:06.304Z",
+    "createdAt": "2025-01-03T06:37:51.816Z",
+    "updatedAt": "2025-01-03T06:37:51.816Z",
     "serviceLocations": [],
     "tags": []
   },
@@ -1015,16 +1015,16 @@
         "id": "samankondori.insurance",
         "name": "Saman Kondori",
         "followers": "410",
-        "posts": null,
-        "businessFollowers": 0
+        "businessFollowersId": [],
+        "isVerified": false
       }
     },
     "category": {
       "id": "insurance",
       "name": "Insurance"
     },
-    "createdAt": "2024-12-31T05:53:06.304Z",
-    "updatedAt": "2024-12-31T05:53:06.304Z",
+    "createdAt": "2025-01-03T06:37:51.816Z",
+    "updatedAt": "2025-01-03T06:37:51.816Z",
     "serviceLocations": [],
     "tags": []
   },
@@ -1036,16 +1036,16 @@
         "id": "sepideh_ahadi_insurance",
         "name": "Sepideh Ahadi",
         "followers": "1,314",
-        "posts": null,
-        "businessFollowers": 0
+        "businessFollowersId": [],
+        "isVerified": false
       }
     },
     "category": {
       "id": "insurance",
       "name": "Insurance"
     },
-    "createdAt": "2024-12-31T05:53:06.304Z",
-    "updatedAt": "2024-12-31T05:53:06.304Z",
+    "createdAt": "2025-01-03T06:37:51.816Z",
+    "updatedAt": "2025-01-03T06:37:51.816Z",
     "serviceLocations": [],
     "tags": []
   },
@@ -1057,16 +1057,16 @@
         "id": "insurancevan.ca",
         "name": "Leila Bagheri",
         "followers": "126",
-        "posts": null,
-        "businessFollowers": 0
+        "businessFollowersId": [],
+        "isVerified": false
       }
     },
     "category": {
       "id": "insurance",
       "name": "Insurance"
     },
-    "createdAt": "2024-12-31T05:53:06.304Z",
-    "updatedAt": "2024-12-31T05:53:06.304Z",
+    "createdAt": "2025-01-03T06:37:51.816Z",
+    "updatedAt": "2025-01-03T06:37:51.816Z",
     "serviceLocations": [],
     "tags": []
   },
@@ -1078,16 +1078,16 @@
         "id": "elham.ghorbaniiiii",
         "name": "Elham Ghorbani",
         "followers": "928",
-        "posts": null,
-        "businessFollowers": 0
+        "businessFollowersId": [],
+        "isVerified": false
       }
     },
     "category": {
       "id": "insurance",
       "name": "Insurance"
     },
-    "createdAt": "2024-12-31T05:53:06.304Z",
-    "updatedAt": "2024-12-31T05:53:06.304Z",
+    "createdAt": "2025-01-03T06:37:51.816Z",
+    "updatedAt": "2025-01-03T06:37:51.816Z",
     "serviceLocations": [],
     "tags": []
   },
@@ -1099,16 +1099,16 @@
         "id": "insurance_by_roya",
         "name": "Roya Fakori",
         "followers": "413",
-        "posts": null,
-        "businessFollowers": 0
+        "businessFollowersId": [],
+        "isVerified": false
       }
     },
     "category": {
       "id": "insurance",
       "name": "Insurance"
     },
-    "createdAt": "2024-12-31T05:53:06.304Z",
-    "updatedAt": "2024-12-31T05:53:06.304Z",
+    "createdAt": "2025-01-03T06:37:51.816Z",
+    "updatedAt": "2025-01-03T06:37:51.816Z",
     "serviceLocations": [],
     "tags": []
   },
@@ -1120,16 +1120,16 @@
         "id": "vancouver__advisor",
         "name": "Azadeh Jabini",
         "followers": "365",
-        "posts": null,
-        "businessFollowers": 0
+        "businessFollowersId": [],
+        "isVerified": false
       }
     },
     "category": {
       "id": "insurance",
       "name": "Insurance"
     },
-    "createdAt": "2024-12-31T05:53:06.304Z",
-    "updatedAt": "2024-12-31T05:53:06.304Z",
+    "createdAt": "2025-01-03T06:37:51.816Z",
+    "updatedAt": "2025-01-03T06:37:51.816Z",
     "serviceLocations": [],
     "tags": []
   }
